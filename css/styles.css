@@ -1,0 +1,137 @@
+.col-lg-6 h1{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 4rem;
+    line-height: 1.5;
+    color:azure
+
+}   
+
+
+
+#title{
+    background-color: #ff4c68;
+}
+
+.container-fluid{
+        padding: 3% 15%;
+}
+
+body{
+
+    font-family: 'Montserrat', sans-serif;
+}
+
+.navbar-brand{
+    font-size: 1.5rem ;
+}
+
+.navbar{
+    padding-bottom: 4.5rem;
+}
+
+.nav-item{
+    padding: 0px 10px;
+
+}
+
+.nav-link{
+    font-size: 1rem;
+    color: azure;
+
+}
+
+.download-button{
+    margin: 5% 3% 5% 0;
+}
+
+.image-main{
+    width: 20%;
+    transform: rotate(25deg);
+    position: absolute;
+    right: 30%;
+}
+
+
+.feature-box{
+    padding: 5%;
+    text-align: center;
+    
+}
+#features{
+    padding: 7% 15%;
+    background-color: azure;
+    position: relative;
+    z-index: 1;
+}
+
+p{
+    color: #8f8f8f;
+}
+
+.icon{
+    color: #ef8172;
+    margin-bottom: 1rem;
+}
+
+.icon:hover{
+    color: #ff4c68;
+
+}
+
+#testimonials{
+    background-color: #ef8172;
+    text-align: center;
+    
+    color: azure;
+}
+.carousel-item{
+    padding: 7% 15%;
+}
+.img-test{
+    border-radius: 100%;
+    width: 15%;
+    
+}
+
+#press{
+    background-color: #ef8172;
+    text-align: center;
+    padding-bottom: 5%;
+    padding-top: 5%;
+    
+}
+.press-img{
+    margin: 20px 20px 50px;
+    width: 15%;
+}
+
+h2{
+    font-size: 3rem;
+    line-height: 1.5;
+}
+
+#pricing{
+    text-align: center;
+    padding: 100px;
+}
+.pricing-col{
+    padding: 3% 2%;
+}
+#cta{
+    background-color: #ff4c68;
+    text-align: center;
+    padding: 7% 15%;
+    color: azure;
+
+}
+h3{
+    font-size: 3.5rem;
+}
+#footer{
+    padding: 7% 15%;
+    text-align: center;
+}
+.social{
+    margin: 2% 0.5%;
+    
+}
